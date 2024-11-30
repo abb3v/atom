@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33f2a405-5a7e-4cd8-8308-0163c1902408" alt="Atom logo" style="width:30%;">
   <h1>Atom</h1>
-  <p>Demonstration of the power of Discord nuker bots, made with Node.js developed by [Peretas Technologies](https://discord.gg/peretas)</p>
+  <p>Demonstration of the power of Discord nuker bots, made with Node.js
   <sub style="font-size:smaller;color:grey;">v1.0.0</sub>
 </div>
 
