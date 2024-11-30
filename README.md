@@ -50,7 +50,7 @@ To get started using the bot, run the command `>help` in any channel in the serv
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/4e9f4b5d-b0d9-47e6-bf51-b1f85886a1fd)
-![image](https://github.com/user-attachments/assets/75b450b5-e5b8-4b3b-a195-a6a4fa4ded0d)
+![image](https://github.com/user-attachments/assets/75b450b5-e5b8-4b3b-a195-a6a4fa4ded0d) yes, i want an m3 comp
 ![image](https://github.com/user-attachments/assets/1e69f2af-022c-4f71-88cf-ee2820d23dfd)
 ![image](https://github.com/user-attachments/assets/87e69819-113e-49a6-b393-8d39df94df1d)
 ![image](https://github.com/user-attachments/assets/40563287-9bcf-475e-9516-b0c341033d9f)
